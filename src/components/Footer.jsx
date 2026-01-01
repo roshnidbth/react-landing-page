@@ -12,7 +12,7 @@ function Footer() {
             <a href="#" style={styles.link}>Contact</a>
           </div>
         </div>
-        <div style={styles.copy}>© 2025 NexGen. All rights reserved.</div>
+        <div style={styles.copy}>© 2025 Beacon. All rights reserved.</div>
       </div>
     </footer>
   );

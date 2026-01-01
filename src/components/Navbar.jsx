@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav style={styles.navbar}>
       <div style={styles.container}>
-        <div style={styles.logo}>NexGen</div>
+        <div style={styles.logo}>Beacon</div>
         <div style={styles.navLinks}>
           <a href="#features" style={styles.link}>Features</a>
           <a href="#about" style={styles.link}>About</a>
